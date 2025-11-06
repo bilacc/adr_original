@@ -1,0 +1,54 @@
+body{font-family: 'relvej','Raleway';color:#565656;};
+
+
+.row{width: 100%;float: left;display: block;}
+.center{max-width: 1100px;padding:20px;width: 100%;margin: 0 auto;}
+.main-title{background: #f8f5f0;text-align: center;font-weight: 400;margin:0;padding:20px 0;margin-bottom: 30px;}
+.w5{width:50%;margin-right:1%;float: left;}.w5.aright{width:48%;float: right;}
+p{font-size: 13px;
+line-height: 20px;
+margin: 0 0 15px;}
+
+.w5 span{width: 100%;float: left;
+display: block;padding-bottom: 0px;
+line-height: 22px;
+font-size: 12px;}
+.title-sub{display: block;
+width: 100%;
+font-size: 16px;
+text-align: center;
+margin-top: 14px;}
+.clearfix{width: 100%;display: block;}
+.opis {float: left;width: 100%;margin:40px 0;}
+.team-box .img-frame {
+    overflow: hidden;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;display: block;
+float: left;
+margin: 0 auto;margin-right: 44px;
+width: 145px;
+}
+.clearfix.line {height: 1px; background:#eee;width:100%;float: left;margin:0;display:block;border:1px solid #eee;margin:4px 0;}
+.team-box h4 {
+    color: #818181;
+    font-weight: 400;
+    margin: 20px 0 10px;
+    font-size: 14px;
+}
+.w7 .team-box h3 {
+    margin-top: -10px;
+    margin-bottom: 10px;font-weight: 500;
+	color: #656565;
+}
+.height{float: left;width: 60%;}
+.mail, .tel {
+    color: #818181;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+}
+ .team-box .mail, .team-box .tel {
+    display: block;
+}
+.height svg{margin-bottom: -7px;}

@@ -1,0 +1,5 @@
+.on-page{float: none;display: inline-block;font-size: 13px;font-weight: 400;margin-left: 17px;border-left: 1px solid #ddd;padding-left: 20px;}
+.on-page-frame {overflow: hidden;float: right;font-size: 13px;font-weight: 400;}
+option{padding:0;}.on-page select{margin-left: 17px;border: 1px solid #ddd;width: 49px;}
+.sort-range{display: inline-block;font-size: 13px;font-weight: 400;}
+.range{margin-left: 10px;color:#b79869;} 

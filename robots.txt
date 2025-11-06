@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Crawl-delay:3
+Sitemap:https://adresar.net/charioteerger.xml
+Sitemap:https://adresar.net/folkvangwyv.xml
+Sitemap:https://adresar.net/hematoconiabwk.xml
+Sitemap:https://adresar.net/ischiofibularwwh.xml
+Sitemap:https://adresar.net/swingersroy.xml
+Sitemap:https://adresar.net/sinusitispqw.xml
+Sitemap:https://adresar.net/calaitesqk.xml
+Sitemap:https://adresar.net/noncorroborationjch.xml
+Sitemap:https://adresar.net/pyrilamineyar.xml
+Sitemap:https://adresar.net/octogamydga.xml
+Sitemap:https://adresar.net/wavycoatedguq.xml
+Sitemap:https://adresar.net/jeterhp.xml
+Sitemap:https://adresar.net/feverlikenxk.xml
+Sitemap:https://adresar.net/cellrwh.xml
+Sitemap:https://adresar.net/intellectionsrv.xml
+Sitemap:https://adresar.net/sitemap.xml

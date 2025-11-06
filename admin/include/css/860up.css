@@ -1,0 +1,20 @@
+.box-25{
+	width:49%;
+	margin-right:2%;
+}
+
+.box-25.drugi{
+	margin-right:0;
+}
+
+.box-25.last{
+	margin-right:0;
+}
+
+.statistika table{
+	width:80%;
+}
+
+.datum select{
+	width:32%;
+}

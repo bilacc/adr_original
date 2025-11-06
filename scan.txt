@@ -1,0 +1,23 @@
+files to scan 7018 
+starting file scans, current load limit: 20.0
+
+|----------------- % Progress -------------------|
+0--10---20---30---40---50---60---70---80---90--100
+**************************************************
+
+----------- SCAN SUMMARY -----------
+Infected files: 13
+/home/adresa07/public_html/lib/phpexcel/PHPExcel/Writer/Excel5/wp-conflg.php: {HEX}Malware.Expert.php.uname.fopen.post.UNOFFICIAL FOUND
+/home/adresa07/public_html/lib/plugins/ckeditor/plugins/flash/dialogs/dialogs.php: Atomicorp.PHP.Malware.460.UNOFFICIAL FOUND
+/home/adresa07/public_html/lib/plugins/mpdf/mpdf.php: Plus.malware.hex.PHP.malicious.code.101.UNOFFICIAL FOUND
+/home/adresa07/public_html/img/cache.php: {HEX}Malware.Expert.gzinflate.create.function.UNOFFICIAL FOUND
+/home/adresa07/public_html/lib/plugins/kcfinder/themes/dark/wp-22.php: {HEX}Malware.Expert.url.decode.header.UNOFFICIAL FOUND
+/home/adresa07/public_html/index.php: {HEX}Malware.Expert.url.decode.header.UNOFFICIAL FOUND
+/home/adresa07/public_html/lib/phpexcel/PHPExcel/Shared/PDF/tcpdf.php: Plus.malware.hex.PHP.malicious.code.101.UNOFFICIAL FOUND
+/home/adresa07/public_html/lib/plugins/kcfinder/themes/dark/autoload_classmap.php: {HEX}Malware.Expert.generic.malware.189.UNOFFICIAL FOUND
+/home/adresa07/public_html/lib/plugins/kcfinder/themes/dark/style.php: {HEX}Malware.Expert.get.unlink.dirname.file.UNOFFICIAL FOUND
+/home/adresa07/public_html/font-awesome/state.php: {HEX}Malware.Expert.php.url.get.contents.eval.UNOFFICIAL FOUND
+/home/adresa07/public_html/COPYRIGHT/img/state.php: {HEX}Malware.Expert.php.url.get.contents.eval.UNOFFICIAL FOUND
+/home/adresa07/public_html/lib/plugins/ckeditor/plugins/templates/atomlib.php: {HEX}Malware.Expert.generic.malware.189.UNOFFICIAL FOUND
+/home/adresa07/public_html/COPYRIGHT/state.php: {HEX}Malware.Expert.php.url.get.contents.eval.UNOFFICIAL FOUND
+scaning symlinks...

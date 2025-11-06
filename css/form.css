@@ -1,0 +1,5 @@
+.light {margin-top: 0px;background: #f8f5f0;padding: 50px 30px;}
+.kontakt-forma{max-width: 970px;display: block;margin:0 auto;}
+label{padding-bottom: 6px;clear: both;font-size:14px;display:block;font-family: "Gotham",'varelaregular';padding-bottom:3px;}
+input, textarea{width: 100%;border: 1px solid #eee;font-size: 14px;font-family: "Gotham",'varelaregular';margin-bottom: 17px;padding: 8px 12px;font-weight: 400;}
+.error{background: #e66620;text-align: center;padding: 10px;color: #fff;margin-bottom: 40px;font-size: 13px;font-weight: 400;}

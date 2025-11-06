@@ -1,0 +1,110 @@
+[15-Jun-2021 19:08:12 Europe/Zagreb] PHP Notice:  Undefined variable: mysqli in /home/adresa07/public_html/items_feed.php on line 5
+[15-Jun-2021 19:08:12 Europe/Zagreb] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/adresa07/public_html/items_feed.php on line 5
+[15-Jun-2021 19:29:11 Europe/Zagreb] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adresa07/public_html/items_feed.php:11) in /home/adresa07/public_html/items_feed.php on line 15
+[15-Jun-2021 19:29:11 Europe/Zagreb] PHP Notice:  Undefined variable: query in /home/adresa07/public_html/items_feed.php on line 22
+[15-Jun-2021 19:29:11 Europe/Zagreb] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/adresa07/public_html/items_feed.php on line 22
+[15-Jun-2021 19:30:02 Europe/Zagreb] PHP Notice:  Undefined variable: query in /home/adresa07/public_html/items_feed.php on line 17
+[15-Jun-2021 19:30:02 Europe/Zagreb] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/adresa07/public_html/items_feed.php on line 17
+[15-Jun-2021 19:30:36 Europe/Zagreb] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/adresa07/public_html/items_feed.php on line 17
+[15-Jun-2021 19:36:39 Europe/Zagreb] PHP Notice:  Undefined variable: query in /home/adresa07/public_html/items_feed.php on line 17
+[15-Jun-2021 19:36:39 Europe/Zagreb] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/adresa07/public_html/items_feed.php on line 17
+[23-Aug-2021 07:27:49 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:27:49 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:27:51 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:27:53 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:27:53 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:27:58 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:28:03 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:28:03 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:22 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:29 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:31 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:31 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:35 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:44 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:50 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:57 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:30:59 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:06 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:09 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:12 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:15 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:21 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:26 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:31 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:36 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:46 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:51 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:31:57 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:00 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:06 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:09 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:12 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:15 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:21 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:29 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:37 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:43 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:46 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:51 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:32:56 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:01 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:01 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:01 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:06 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:11 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:14 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:17 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:17 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:17 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:20 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:21 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:22 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:23 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:26 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:29 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:37 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:44 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:50 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:57 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:59 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:33:59 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:34:00 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:34:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:34:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:34:06 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:34:06 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:34:09 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:34:12 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:34:14 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:34:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:34:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:34:29 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8
+[23-Aug-2021 07:34:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/adresa07/public_html/lib/functions.php on line 8

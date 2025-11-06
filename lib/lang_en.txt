@@ -1,0 +1,154 @@
+
+
+_O_NAMA = About us
+_NAS_TIM = Team
+_PRODAJA = For sale
+_NAJAM = For rent
+_USLUGE = Services
+_BLOG = Blog
+_KONTAKT = Contact
+_LICENCIRANA_AGENCIJA = Agency license number
+_AUTOR = Author
+_HOME = Homepage
+_IZBORNIK = Menu
+
+_PROSIRITE_PRETRAGU = Property search
+_FILTRIRAJTE = Filter
+
+_ISPUNITE_POLJA = Fill in marked with * 
+_IME = Name
+_PREZIME = Surname
+_E_MAIL = e-mail
+_KONTAKT_BROJ = Contact number
+_MESSAGE = Message
+_KOLIKO_JE = Enter result
+_GRESKA_404 = Error 404
+_GRESKA_TXT = Page you were looking for doesn't exist
+_COPY = All rights reserved
+_NEWSLETTER_TXT = Subscribe to newsletter - Receive news from the world of real estate
+_CIJENA_PO_KVADRATU = Price per m2
+_OSTALO = Other
+_URL_KONTAKT = contact
+_URL_BLOG = blog
+_OPIS = Description
+_OD = from
+_DO = to
+_LOKACIJA = Location
+_TIP_NEKRETNINE = Property type
+_PORUKA_JE_USPJESNO_POSLANA = <p><span class="green">Your message has been successfully sent!</span> <br>We will contact you in a short time</p>
+_POVRSINA = Surface area
+_CIJENA = Price
+_SOBNOST = Total rooms
+_DETALJNIJA_TRAZILICA = Advanced search
+_ID_NEKRETNINE = Property ID
+_IZDVOJENE = featured
+_NEKRETNINE = properties
+_UPOZNAJTE_NAS = Get to know us
+_POSALJITE = Send
+_DO = to
+_AGENT = Agent
+_ZELIM_OSTAT_ANONIMAN = Stay anonimous
+_PDF = Print
+_DODAJ_U_FAVORITE = Add to favorites
+_DODANO_U_FAVORITE = Added to favorites
+_PRETRAZITE = Search
+_PARKIRALISTE = Parking
+_VANJSKO_PARKIRNO_MJESTO = External parking
+_BROJ_ETAZA = Total floors:
+_NAMJESTENOST = Furnished
+_GRIJANJE = Heating
+_GODINA_IZGRADNJE = Year of build
+_GODINA_ADAPTACIJE = Year of renovation
+_ENERGETSKI_CERTIFIKAT = Energy certificate
+_KATNOST = Floor 
+_BROJ_SOBA = Number of rooms
+_BROJ_KUPAONICA = Number of bathrooms
+_GARAZA = Garage
+_REZULTATI_PRETRAGE = Search results
+_NEMA_NEKRETNINA = No results
+_ORJENTACIJA = Orientation
+_SJEVER = north
+_JUG = south
+_ISTOK = east
+_ZAPAD = west
+_ID_NEKRETNINE = Property ID
+
+_POGLEDAJTE_VIDEO = Play video
+
+_NOVOGRADNJA = New building
+_VRT = Garden
+_KLIMA = Air conditioning
+_LIFT = Elevator
+_BALKON = Balcony
+_TLOCRT = Floor plan
+
+_NEWSLETTER_HVALA = You have successfully registered for our newsletter
+_PRIJAVITE_SE = Sign in
+_DETALJNIJE = More details
+
+_SORTIRAJ_PO = Sort by
+_PO_DATUMU = Date
+_REZULTATA_PO_STRANICI = Results per page
+_EMAIL_ERR = Email entry error
+_COMMENT_SUCCESS = Comment successfully sent
+_SIGURNOSNA_PROVJERA = Security code error
+_KOLIKO_JE = Enter result
+
+_SNIZENE = Price drop
+_USLUGE = Services
+_NOVOSTI = News
+
+_POSALJITE_UPIT_ZA = Send an inquiry
+_NEMA_REZULTATA = No results
+_PRODAJETE_NEKRETNINU = Selling your property?
+_KONTAKTIRAJTE_NAS = Contact us
+
+_IMATE_POHVALU = Tell us your opinion 
+_OSTAVITE_KOMENTAR = Leave comment
+
+_VAS_KOMENTAR = Your comment
+
+_SLJEDECA = Next
+_PRETHODNA = Previous
+
+_URL_PRODAJA = sale
+_URL_NAJAM = rent
+_URL_AGENT = agent
+_URL_NEWS = news
+_URL_O_NAMA = about us
+_URL_KONTAKT = contact
+_URL_BLOG = blog
+_URL_DETALJI = details
+_URL_PRETRAGA = search
+_URL_USLUGE = services
+
+_URL_ZAHVALA = thank-you
+_URL_KOMENTAR_ZAHVALA = comment-thank you
+
+_URL_UNOS_KOMENTARA = add-comment
+_URL_NEWSLETTER_PRIJAVA = newsletter-subscribe
+_URL_NEWSLETTER_ZAHVALA = newsletter-thank-you
+
+_KOMENTARI = Client comments
+_IME_ERROR = Please enter a name!
+_ERROR_GDPR = Please agree to the Privacy Policy!
+_ERROR_MAIL = E-mail address is not entered correctly
+_ERROR_MAIL_NOT_VALID = The email address was not entered correctly
+_EMAIL_MSG_KOMENTAR = Please enter your comment
+_ERROR_MAIL_POSTOJI = E-mail address already exists in our database
+
+_NAKON_ODOBRENJA = After administrator approval will be displayed on our site.
+_SLAZEM_SE_KOMENTAR = The contact information collected through this form will not be published or used for anything other than to appear on our site, as well as you may also remain anonymous if you wish and request that you permanently remove it from our database
+_SLAZEM_SE_KONTAKT = The contact information collected through this form will not be publicly disclosed or used for anything other than sending a response to your inquiry!
+_SLAZEM_SE_NEWSLETTER = I agree that my storage information is used occasionally for the purpose of sending newsletters and other promotional e-mails. I understand that at any time I can print from my e-mail list at any time, request access to my data, and if desired, edit or permanently remove it from your database.
+_NASA_PRAVILA = View our Privacy Policy
+_OVDJE = here
+
+_PRAVILA_PDF_URL = Pravila-o-privatnosti-Elion-Nekretnine.pdf
+_SLAZEM_SE_S_PRAVILIMA_PRIVATNOSTI = Slažem se s pravilima privatnosti
+
+_COOK = Ova stranica koristi kolačiće za pružanje boljeg korisničkog iskustva, funkcionalnosti i prikaza sustava oglašavanja. Cookie postavke mogu se kontrolirati i konfigurirati u vašem web pregledniku, a više o tome možete pročitati <a target="_blank" href="https://elion-nekretnine.com/Pravila-o-privatnosti-Elion-Nekretnine.pdf"><b>ovdje</b></a>. Za nastavak pregleda i korištenja web stranice kliknite na 
+_SLAZEM_SE_C = Slažem se
+
+_COOK = This page uses cookies to provide better user experience, functionality, and view of the advertising system. Cookie settings can be controlled and configured in your web browser, and you can read more about it <a href="https://elion-nekretnine.com/Privacy-Policy-Elion-Realestate.pdf" target="_blank"><b>here</b></a>. To continue browsing and using the site, click 
+_SLAZEM_SE = I agree

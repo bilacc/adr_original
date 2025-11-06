@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "protected"
+AuthUserFile "/home/adresa07/public_html/.htpasswd.XGwhH"
+require valid-user

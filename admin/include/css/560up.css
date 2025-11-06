@@ -1,0 +1,64 @@
+h1 .gumb{
+	top:-2px;
+	margin-left:15px;
+}
+
+h1 br{
+	display:none;
+}
+
+a.gumb-upload:link, a.gumb-upload:visited{
+	top:-2px;
+	display:inline-block;
+	margin-bottom:0px;
+	margin-left:15px;
+}
+
+.box-50.dobrodosli{
+	background:#ffffff url("../../images/dobrodosli.png") no-repeat left top;
+	padding-left:190px;
+}
+
+.statistika{
+	background:#ffffff url("../../images/statistika.png") no-repeat 90% 50px;
+}
+
+.statistika table{
+	width:70%;
+}
+
+table.list, ul.list{
+	width:180%;
+}
+
+table.list tbody tr td.naslov{
+	width:30%;
+}
+
+table.list.media tbody tr td.naslov{
+	width:35%;
+}
+
+.unos-slika{
+	width:23%;
+	margin:15px 1%;
+	float:left;
+	position:relative;
+}
+
+.image-sort .ui-state-highlight{
+	width:23%;
+	margin:15px 1%;	
+}
+
+.unos-dokument{
+	width:21%;
+	margin:15px 2%;
+	float:left;
+	position:relative;
+}
+
+.file-sort .ui-state-highlight{
+	width:21%;
+	margin:15px 2%;	
+}

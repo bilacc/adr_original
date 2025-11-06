@@ -1,0 +1,157 @@
+
+
+_O_NAMA = O nama
+_NAS_TIM = Naš tim
+_PRODAJA = Prodaja
+_NAJAM = Najam
+_USLUGE = Usluge
+_BLOG = Blog
+_KONTAKT = Kontakt
+_LICENCIRANA_AGENCIJA = Licencirana<br> agencija
+_AUTOR = Autor
+_HOME = Naslovna
+_IZBORNIK = Izbornik
+
+_PROSIRITE_PRETRAGU = PRETRAGA NEKRETNINA
+_FILTRIRAJTE = Filtrirajte
+
+_ISPUNITE_POLJA = Molimo ispunite sva polja označena zvjezdicom
+_IME = Ime
+_PREZIME = Prezime
+_E_MAIL = E-mail
+_KONTAKT_BROJ = Kontakt broj
+_MESSAGE = Poruka
+_KOLIKO_JE = Upišite kolko je
+_GRESKA_404 = Greška 404
+_GRESKA_TXT = Poštovani, stranica koju ste tražili nije pronađena.
+_COPY = Sva prava pridržana.
+_NEWSLETTER_TXT = Ukoliko želite primati najnovije obavjesti iz svijeta nekretnina, prijavite se na naš
+_CIJENA_PO_KVADRATU = Cijena po kvadratu
+_OSTALO = Ostalo
+_URL_KONTAKT = kontakt
+_URL_BLOG = blog
+_PORUKA_JE_USPJESNO_POSLANA = <p><span class="green">Vaša poruka je uspješno poslana!</span> <br>Kontaktirati ćemo Vas u nakraćem vremenskom roku</p>
+_OPIS = Opis
+_OD = od
+_DO = do
+_PORUKA_JE_USPJESNO_POSLANA = Vaša poruka je uspješno poslana!
+_LOKACIJA = Lokacija
+_TIP_NEKRETNINE = Tip nekretnine
+_POVRSINA = Površina
+_CIJENA = Cijena
+_SOBNOST = Sobnost
+_DETALJNIJA_TRAZILICA = Detaljna tražilica
+_ID_NEKRETNINE = ID nekretnine
+_IZDVOJENE = izdvojene
+_NEKRETNINE = nekretnine
+_UPOZNAJTE_NAS = Upoznajte nas
+_POSALJITE = Pošaljite
+_DO = do
+_AGENT = Agent
+_ZELIM_OSTAT_ANONIMAN = Želim ostat anoniman
+_PDF = Ispišite
+_DODAJ_U_FAVORITE = Dodaj u favorite
+_DODANO_U_FAVORITE = Dodano u favorite
+_PRETRAZITE = Pretražite
+_PARKIRALISTE = Parkiralište
+_VANJSKO_PARKIRNO_MJESTO = Vanjsko parkirno mjesto
+_BROJ_ETAZA = Broj etaža
+_NAMJESTENOST = Namještenost
+_GRIJANJE = Grijanje
+_GODINA_IZGRADNJE = Godina izgradnje
+_GODINA_ADAPTACIJE = Godina adaptacije
+_ENERGETSKI_CERTIFIKAT = Energetski certifikat
+_KATNOST = Kat
+_BROJ_SOBA = Broj soba
+_BROJ_KUPAONICA = Broj kupaonica
+_GARAZA = Garaža
+_REZULTATI_PRETRAGE = Rezultati pretrage
+_NEMA_NEKRETNINA = Nema rezultata
+_ORJENTACIJA = Orijentacija
+_SJEVER = sjever
+_JUG = jug
+_ISTOK = istok
+_ZAPAD = zapad
+_ID_NEKRETNINE = ID nekretnine
+
+_POGLEDAJTE_VIDEO = Pogledajte video
+
+_NOVOGRADNJA = Novogradnja
+_VRT = Vrt
+_KLIMA = Klima
+_LIFT = Lift
+_BALKON = Balkon
+_TLOCRT = Tlocrt
+
+_NEWSLETTER_HVALA = Uspješno ste se prijavili za naš newsletter.
+_PRIJAVITE_SE = Prijavite se
+_DETALJNIJE = Detaljnije
+
+_SORTIRAJ_PO = Sortiraj po
+_PO_DATUMU = Datumu
+_REZULTATA_PO_STRANICI = Prikaz na stranici
+_EMAIL_ERR = E-mail adresa nije ispravno upisana.
+_COMMENT_SUCCESS = Vaš komentar je uspješno poslan.
+_SIGURNOSNA_PROVJERA = Sigurnosni kod nije ispravno upisan
+_KOLIKO_JE = Upišite koliko je
+
+_SNIZENE = Snižene
+_USLUGE = Usluge
+_NOVOSTI = Novosti
+
+_POSALJITE_UPIT_ZA = Pošaljite upit za nekretninu
+_NEMA_REZULTATA = Nema rezultata
+_PRODAJETE_NEKRETNINU = Prodajete nekretninu?
+_KONTAKTIRAJTE_NAS = Kontaktirajte nas
+
+_IMATE_POHVALU = Imate pohvalu ili primjedbu?
+_OSTAVITE_KOMENTAR = Ostavite komentar
+
+_VAS_KOMENTAR = Vaš komentar
+
+_SLJEDECA = Sljedeća
+_PRETHODNA = Prethodna
+
+_UNOS_KOMENTARA = Unos komentara
+
+_URL_PRODAJA = prodaja
+_URL_NAJAM = najam
+_URL_AGENT = agent
+_URL_NEWS = novosti
+_URL_O_NAMA = o-nama
+_URL_KONTAKT = kontakt
+_URL_BLOG = blog
+_URL_DETALJI = detalji
+_URL_PRETRAGA = pretraga
+_URL_USLUGE = usluge
+_URL_ZAHVALA = zahvala
+_URL_UNOS_KOMENTARA = unos-komentara
+_URL_NEWSLETTER_PRIJAVA = newsletter-prijava
+_URL_NEWSLETTER_ZAHVALA = newsletter-zahvala
+
+_KOMENTARI = Komentari klijenata
+_IME_ERROR = Molimo upišite ime!
+_ERROR_GDPR = Molimo složite se sa pravilima o privatnosti!
+_ERROR_MAIL = E-mail adresa nije ispravno upisana
+_ERROR_MAIL_NOT_VALID = E-mail adresa nije ispravno upisana
+_EMAIL_MSG_KOMENTAR = Molimo unesite Vaš komentar
+_URL_KOMENTAR_ZAHVALA = komentar-zahvala
+_ERROR_MAIL_POSTOJI = E-mail adresa već postoji u našoj bazi
+
+_NAKON_ODOBRENJA = Nakon odobrenja administratora biti će prikazan na našoj stranici.
+_SLAZEM_SE_KOMENTAR = Kontaktni podaci prikupljeni ovim obrascem neće biti javno objavljeni niti će isti biti korišteni u druge svrhe osim za prikazivanje na našoj stranici. Ako želite, možete ostati anonimni, kao i zatražiti da vas se trajno ukloni iz naše baze.
+_SLAZEM_SE_KONTAKT = Kontaktni podatci prikupljeni ovim obrascem neće biti javno objavljivani niti će isti biti korišteni u druge svrhe osim za slanje odgovora na vaš upit!
+_SLAZEM_SE_NEWSLETTER = Slažem se da se moji podaci pohrane i povremeno koriste u svrhu slanja newslettera i drugih promotivnih e-mailova. Razumijem da se na vlastiti zahtjev u svakom trenutku mogu ispisati s e-mail liste, zatražiti pristup svojim podacima, te ih po želji urediti ili trajno ukloniti iz vaše baze podataka.
+_NASA_PRAVILA =  Naša pravila privatnosti pročitajte 
+_OVDJE = ovdje
+
+_PRAVILA_PDF_URL = Pravila-o-privatnosti-Elion-Nekretnine.pdf
+_SLAZEM_SE_S_PRAVILIMA_PRIVATNOSTI = Slažem se s pravilima privatnosti
+
+_COOK = Ova stranica koristi kolačiće za pružanje boljeg korisničkog iskustva, funkcionalnosti i prikaza sustava oglašavanja. Cookie postavke mogu se kontrolirati i konfigurirati u vašem web pregledniku, a više o tome možete pročitati <a target="_blank" href="https://elion-nekretnine.com/Pravila-o-privatnosti-Elion-Nekretnine.pdf"><b>ovdje</b></a>. Za nastavak pregleda i korištenja web stranice kliknite na 
+_SLAZEM_SE_C = Slažem se
+
+
+_STARIJI_SAM_OD_16 = Potvrđujem da sam stariji/a od 16 godina
+
+_ZAHVALA = Poslana poruka

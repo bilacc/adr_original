@@ -1,0 +1,34 @@
+.uputstva{
+	width:33%;
+}
+
+.cat-list-header div.naslov{
+	width:63%;
+}
+
+.cat-list-header div.datum{
+	display:inline-block;
+	width:20%;
+}
+
+.cat-list-header div.slika{
+	display:inline-block;
+}
+
+.cat-list li div.naslov{
+	width:65%;
+}
+
+.cat-list li div.datum{
+	display:inline-block;
+	padding: 22px 15px;
+	width:20%;
+}
+
+.cat-list li div.slika{
+	display:inline-block;
+}
+
+.img-selection-container .img-select{
+	width:25%;
+}

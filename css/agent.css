@@ -1,0 +1,36 @@
+.team-box h3{margin-top:-10px;margin-bottom:10px;}.w7 .team-box .mail,.w7 .team-box .tel{display:block;}
+ .team-box h4{color:#818181;font-weight:400;margin:20px 0 0px;font-size:14px;}
+
+.img-frame{max-width:100%;}
+.w3.agent {
+    width: 27%;
+    float: left;
+    margin-top: 40px;
+}
+.team-box a.img-box {
+    max-width: 149px;
+    display: block;
+    height: 149px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.team-box .height {
+    text-align: left;
+    width: 64%;
+   margin: 26px auto;
+    display: block;
+}
+.team-box h4 {
+    color: #818181;
+    font-weight: 400;
+    margin: 20px 0 10px;
+    font-size: 14px;
+}
+ .team-box h3 {
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.team-box h1{margin-bottom: 20px;
+margin-top: -10px;font-size: 25px;
+}
